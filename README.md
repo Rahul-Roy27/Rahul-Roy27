@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-rahulroy27-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/Rahul-Roy27">
+<a href="https://leetcode.com/u/XhYWw96J31/">
   <img src="https://img.shields.io/badge/LeetCode-Rahul--Roy27-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
@@ -56,11 +56,11 @@ A frontend project I built for my former school, Rüzhükrie Government High Sec
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
 </p>
 
-<a href="https://github.com/Rahul-Roy27">
+<a href="https://github.com/Rahul-Roy27/Ruzhukhrie-ghss-website.git">
   <img src="https://img.shields.io/badge/Repository-161b22?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="#">
+<a href="ruzhukhrie-ghss-website.vercel.app">
   <img src="https://img.shields.io/badge/Live%20Demo-00b4d8?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
