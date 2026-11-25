@@ -31,6 +31,17 @@
 </div>
 
 ---
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul-Roy27/Rahul-Roy27/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul-Roy27/Rahul-Roy27/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rahul-Roy27/Rahul-Roy27/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
 
 ## About
 
@@ -128,18 +139,6 @@ A responsive frontend built as a layout exercise — structured navigation, a me
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Roy27&bg_color=0d1117&color=8b949e&line=00b4d8&point=00b4d8&area=true&area_color=00b4d820&hide_border=true" width="95%" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul-Roy27/Rahul-Roy27/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul-Roy27/Rahul-Roy27/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rahul-Roy27/Rahul-Roy27/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
